@@ -4,9 +4,9 @@
   <p>🔹 AI & Automation | LLM/RAG Systems | CRM & Workflow Specialist 🔹</p>
   
   <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://upwork.com/yourprofile"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+    <a href="mailto:paraguacu.valley@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/caio-dias-mota-dos-santos-6310aa357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.upwork.com/freelancers/~0124b77c81dccd7e65"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
@@ -20,38 +20,6 @@ I specialize in developing AI-powered applications, intelligent CRMs, enterprise
 - 🌱 I'm continuously exploring **advanced LLM techniques and vector database optimizations**
 - 💬 Ask me about **LangChain, GraphRAG, n8n, or Full-Stack Development**
 - 📫 How to reach me: **[your.email@example.com]**
-
-## 🚀 Core Offerings
-
-### 💡 AI & Automation Solutions
-
-- **AI Search & Knowledge Automation**
-  - GraphRAG-Powered Search – context-aware knowledge graphs for instant data retrieval
-  - Enterprise LLM Chatbots – AI agents for automated customer support & document processing
-  - Real-Time Data Insights – AI-powered business intelligence & workflow automation
-
-- **AI in Healthcare & Medical Tech**
-  - AI-Assisted Medical Claims & Billing – OCR & AI-powered document processing
-  - LLM Medical Knowledge Retrieval – AI knowledge assistants for clinical decision-making
-  - Healthcare AI Chatbots – HIPAA-compliant AI for patient support & medical inquiries
-
-- **AI-Driven Insurance Automation**
-  - Instant Damage Assessment (Image AI) – AI-powered vehicle & property claims evaluation
-  - Fraud Detection & Risk Assessment – AI models for pattern recognition & anomaly detection
-  - AI-Powered Claims Processing – Automating claim approvals, underwriting & verification
-
-### 👥 Advanced CRM Development
-
-- Custom AI-Powered CRMs – Customer-focused platforms designed for automation & engagement
-- Multi-Tenant Cloud-Based CRMs – Scalable business solutions with modular architecture
-- AI-Enhanced Sales & Marketing Pipelines – Automated lead tracking, campaigns, and customer journey mapping
-- ERP & Workflow Solutions – AI & data-driven CRM + ERP ecosystems for business growth
-
-### 📱 Mobile & Cross-Platform Development
-
-- AI-Powered CRM & Business Apps – Scalable Flutter & React Native solutions
-- Seamless API Integrations – Secure REST, GraphQL & WebSockets for real-time data sync
-- Cloud-Optimized Mobile Solutions – Fast, reliable, and AI-enhanced cross-platform applications
 
 ## 🛠️ Technical Expertise
 
@@ -142,6 +110,38 @@ I specialize in developing AI-powered applications, intelligent CRMs, enterprise
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
+## 🚀 Core Offerings
+
+### 💡 AI & Automation Solutions
+
+- **AI Search & Knowledge Automation**
+  - GraphRAG-Powered Search – context-aware knowledge graphs for instant data retrieval
+  - Enterprise LLM Chatbots – AI agents for automated customer support & document processing
+  - Real-Time Data Insights – AI-powered business intelligence & workflow automation
+
+- **AI in Healthcare & Medical Tech**
+  - AI-Assisted Medical Claims & Billing – OCR & AI-powered document processing
+  - LLM Medical Knowledge Retrieval – AI knowledge assistants for clinical decision-making
+  - Healthcare AI Chatbots – HIPAA-compliant AI for patient support & medical inquiries
+
+- **AI-Driven Insurance Automation**
+  - Instant Damage Assessment (Image AI) – AI-powered vehicle & property claims evaluation
+  - Fraud Detection & Risk Assessment – AI models for pattern recognition & anomaly detection
+  - AI-Powered Claims Processing – Automating claim approvals, underwriting & verification
+
+### 👥 Advanced CRM Development
+
+- Custom AI-Powered CRMs – Customer-focused platforms designed for automation & engagement
+- Multi-Tenant Cloud-Based CRMs – Scalable business solutions with modular architecture
+- AI-Enhanced Sales & Marketing Pipelines – Automated lead tracking, campaigns, and customer journey mapping
+- ERP & Workflow Solutions – AI & data-driven CRM + ERP ecosystems for business growth
+
+### 📱 Mobile & Cross-Platform Development
+
+- AI-Powered CRM & Business Apps – Scalable Flutter & React Native solutions
+- Seamless API Integrations – Secure REST, GraphQL & WebSockets for real-time data sync
+- Cloud-Optimized Mobile Solutions – Fast, reliable, and AI-enhanced cross-platform applications
+
 ## 🌐 Industry Experience
 
 - **Healthcare & Medical AI Solutions**
@@ -155,10 +155,3 @@ I specialize in developing AI-powered applications, intelligent CRMs, enterprise
 - **Retail & E-Commerce**
   - AI-driven sales optimization, secure payment integration
 
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/caio-dias-mota-dos-santos-6310aa357/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
