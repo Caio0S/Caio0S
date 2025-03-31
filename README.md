@@ -19,7 +19,7 @@ I specialize in developing AI-powered applications, intelligent CRMs, enterprise
 - 🔭 I'm currently working on **AI-powered automation systems and RAG implementations**
 - 🌱 I'm continuously exploring **advanced LLM techniques and vector database optimizations**
 - 💬 Ask me about **LangChain, GraphRAG, n8n, or Full-Stack Development**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **paraguacu.valley@gmail.com**
 
 ## 🛠️ Technical Expertise
 
